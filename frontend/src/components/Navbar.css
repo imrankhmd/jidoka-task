@@ -1,0 +1,17 @@
+
+.navbar{
+    display: flex;
+    color: white;
+    position: sticky;
+    top: 0%;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(24, 160, 184);
+    
+}
+.navbar>h3{
+    cursor: pointer;
+}
+
+
+
